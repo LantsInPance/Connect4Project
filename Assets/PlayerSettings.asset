@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c23eeed1b6d6154892326ef541e5774, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  availableSceneries:
+  - background: {fileID: 21300000, guid: bc36473fb9fdd964f91bc80b8338fcdc, type: 3}
+    table: {fileID: 21300000, guid: b15db70d6a035f742b549b5ff3c01812, type: 3}
+    ambientSound: {fileID: 8300000, guid: 672fd7004aa9f694b9f0e6e192114185, type: 3}
+  - background: {fileID: 21300000, guid: f2cb264f920043b4f84fd510d64cba36, type: 3}
+    table: {fileID: 21300000, guid: b15db70d6a035f742b549b5ff3c01812, type: 3}
+    ambientSound: {fileID: 8300000, guid: 29b579c42960c1c49831f56740aeefa7, type: 3}
+  - background: {fileID: 21300000, guid: e9e5a1e8b5994394c8059893d2424020, type: 3}
+    table: {fileID: 21300000, guid: 245ffd08b9a26644c928c3b371cab703, type: 3}
+    ambientSound: {fileID: 8300000, guid: 037f669ed368b144491a3fc0b187dbc2, type: 3}
+  availablePiecePairs:
+  - pieceA: {fileID: 21300000, guid: 285f5656daa9a2840acc78fd081db633, type: 3}
+    pieceB: {fileID: 21300000, guid: 00d40120c3fb5ca468638a47d682b259, type: 3}
+    board: {fileID: 21300000, guid: baa1424590154e443907be00613ad92e, type: 3}
+  - pieceA: {fileID: 21300000, guid: 74531bc9b9108014ba1eef1f53643730, type: 3}
+    pieceB: {fileID: 21300000, guid: 4368cc1ebb24fe64fafa77721b037d5a, type: 3}
+    board: {fileID: 21300000, guid: bd026b2b3c748d04c838415e643c2166, type: 3}
+  - pieceA: {fileID: 21300000, guid: 9b53e238b9e8a55428e3c109b4a4c5b6, type: 3}
+    pieceB: {fileID: 21300000, guid: 7316c925742a0d845a4e532184bfc430, type: 3}
+    board: {fileID: 21300000, guid: 65e987f81eec8d14eb5ea40049a277de, type: 3}
+  selectedColorScheme:
+    pieceA: {fileID: 21300000, guid: 9b53e238b9e8a55428e3c109b4a4c5b6, type: 3}
+    pieceB: {fileID: 21300000, guid: 7316c925742a0d845a4e532184bfc430, type: 3}
+    board: {fileID: 21300000, guid: 65e987f81eec8d14eb5ea40049a277de, type: 3}
+  selectedScenery:
+    background: {fileID: 21300000, guid: e9e5a1e8b5994394c8059893d2424020, type: 3}
+    table: {fileID: 21300000, guid: 245ffd08b9a26644c928c3b371cab703, type: 3}
+    ambientSound: {fileID: 8300000, guid: 672fd7004aa9f694b9f0e6e192114185, type: 3}
