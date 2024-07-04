@@ -1677,8 +1677,8 @@ MonoBehaviour:
   ai: {fileID: 220702563}
   gameEndDisplay: {fileID: 818633655}
   screenFader: {fileID: 818633654}
-  audioFader: {fileID: 0}
-  gameDisplay: {fileID: 0}
+  audioFader: {fileID: 818633657}
+  gameDisplay: {fileID: 818633656}
   tableImage: {fileID: 703216194}
   boardImage: {fileID: 1274367519}
 --- !u!4 &818633653
